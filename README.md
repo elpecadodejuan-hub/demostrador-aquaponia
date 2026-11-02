@@ -1,5 +1,3 @@
-# demostrador-aquaponia
-Demostrador de aquaponía v2.2 para Arduino Mega 2560
 # Demostrador de Aquaponía v2.2
 
 Sistema didáctico de aquaponía controlado por **Arduino Mega 2560**.  
